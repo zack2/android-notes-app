@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="BrilliantAzure">#FF3683FC</color>
+    <color name="Water">#FFCDE0FE</color>
+    <color name="BlueStarlight">#FFFAFCFF</color>
+    <color name="MaastrichtBlue">#FF0C1E3C</color>
+    <color name="Indigo">#FF12355C</color>
+</resources>

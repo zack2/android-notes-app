@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android-notes-app</string>
+    <string name="list_note">List of notes</string>
+    <string name="detail_note">Detail of note</string>
+</resources>
