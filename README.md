@@ -51,4 +51,4 @@ Dillinger uses a number of open source projects to work properly:
 - ```vm``` the viewmodel
 
 ## Release
-You can find the apk  [here](https://github.com/zack2/android-notes-app/tree/master/app/release)
+You can find the apk  [here](https://github.com/zack2/android-notes-app/tree/main/app/release)
